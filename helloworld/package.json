@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "first",
+  "keywords": [
+    "vilho",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "vilho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testi !!!\" && exit 1"
+  }
+}

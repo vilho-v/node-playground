@@ -1,0 +1,20 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "vilhon express app",
+  "keywords": [
+    "express",
+    "vilho"
+  ],
+  "license": "ISC",
+  "author": "vilho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
